@@ -6,6 +6,14 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/ruant/CLionProjects/untitled/Tree.h
+stdio.h
+-
+stdlib.h
+C:/Users/ruant/CLionProjects/untitled/stdlib.h
+string.h
+C:/Users/ruant/CLionProjects/untitled/string.h
+
 C:/Users/ruant/CLionProjects/untitled/main.c
 stdio.h
 -
@@ -13,4 +21,6 @@ stdlib.h
 C:/Users/ruant/CLionProjects/untitled/stdlib.h
 string.h
 C:/Users/ruant/CLionProjects/untitled/string.h
+Tree.h
+C:/Users/ruant/CLionProjects/untitled/Tree.h
 
